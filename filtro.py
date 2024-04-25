@@ -36,5 +36,6 @@ if productos_filtrados:
 else:
     print("Lo sentimos, no es una operación válida")
 
-
 # py filtro.py 30000
+# py filtro.py 30000 menor
+# py filtro.py 30000 mayor
